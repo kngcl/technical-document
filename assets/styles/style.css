@@ -18,6 +18,7 @@
   left: -39px;
   top: 0;
   color: #4d4e53;
+  overflow-x: hidden;
 }
 
 .header-menu {
